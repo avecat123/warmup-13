@@ -1,0 +1,23 @@
+html {
+    background-color: antiquewhite;
+}
+
+.gold {
+    color: gold;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 320px;
+    background-color: turquoise;
+}   
+
+.site-header
+{
+    background-color: rgb(210, 187, 187);
+}
+
+.site-footer
+{
+    background-color:bisque;
+}   
